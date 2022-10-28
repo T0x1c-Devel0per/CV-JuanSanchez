@@ -8,8 +8,6 @@ import Info from "./Componentes/info/Info";
 import Footer from "./Componentes/footer/Footer";
 import Graph from "./Componentes/graph/Graph";
 //Importar componentes
-
-
 function App() {
   const [scrollHeight, setScrollHeight] = useState(0); //Guardamos la posicion del scroll
 
