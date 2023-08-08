@@ -5,22 +5,22 @@ import './Graph.css';
 const SKILLS6 = [
     {
         type: "CSS/HTML",
-        level: 90,
+        level: 100,
         color: { bar: "#F24E29", title: { text: "#fff", background: "#c22400" } }
     },
     {
         type: "SQL",
-        level: 90,
+        level: 75,
         color: { bar: "#27ae60", title: { text: "#fff", background: "#1e8047" } }
     },
     {
         type: "Javascript",
-        level: 70,
+        level: 80,
         color: { bar: "#124e8c", title: { text: "#fff", background: "#0d3760" } }
     },
     {
         type: "Python",
-        level: 60,
+        level: 50,
         color: { bar: "#f55858", title: { text: "#fff", background: "#D92929" } }
     },
     {

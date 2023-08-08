@@ -12,14 +12,12 @@ const About = () => {
       </div>
         <div className='about-desc'>
             <h3>Sobre mi</h3>
-            <p>Programador Junior con conocimiento intermedio en Excel,
-              software y hardware, adicionalmente cuento con bases
-              en lenguaje de programación como Python,
-              Java, JavaScript, CSS, SQL, PostgreSQL, NodeJS, manejo de frameworks
-              (Vue, React, Angular,Flask, Django) metodologías agiles (SCRUM), JSON Web Tokens,
-              GIT, API Rest, todos estos conocimientos los he adquirido por medio del
-              programa del gobierno Misión TIC 2022 con la Universidad Nacional
-              de Colombia y un técnico en Programas Informáticos Y bases de Datos.</p>
+            <p>
+              Programador Junior con sólidos conocimientos en software y hardware, respaldados por una formación integral.
+              Poseo competencia en diversos lenguajes de programación como Python, Java, JavaScript, y manejo de tecnologías web como CSS y SQL.
+              Además, cuento con experiencia en el uso de bases de datos PostgreSQL y en la construcción de aplicaciones utilizando NodeJS y frameworks como React, Flask y Django.
+              Mi enfoque se apoya en metodologías ágiles, especialmente en SCRUM, y tengo habilidad en la implementación de JSON Web Tokens, GIT y la creación de API Rest.
+            </p>
         </div>
     </div>
   )

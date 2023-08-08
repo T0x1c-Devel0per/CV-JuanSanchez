@@ -19,9 +19,8 @@ const Slider = () => {
             offset={25}
             slides={Slides}
             breakpoints = {{
-              300: {
+              960: {
                 slidesPerPage: 1,
-                itemWidth:250,
                 arrows:true,
               }
             }}
