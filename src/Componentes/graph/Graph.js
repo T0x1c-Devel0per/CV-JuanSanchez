@@ -26,12 +26,12 @@ const SKILLS6 = [
     {
         type: "Java",
         level: 50,
-        color: { bar: "#D9C5B4", title: { text: "#fff", background: "#d2b69e" } }
+        color: { bar: "#D9C5B4", title: { text: "#000", background: "#d2b69e" } }
     },
     {
         type: "FireBase",
         level: 80,
-        color: { bar: "#A569BD", title: { text: "#111", background: "#d0ac42" } }
+        color: { bar: "#A569BD", title: { text: "#fff", background: "#9D57A0" } }
     },
     {
         type: "SQL",
@@ -41,17 +41,17 @@ const SKILLS6 = [
     {
         type: "MongoDB",
         level: 80,
-        color: { bar: "#F2C849", title: { text: "#111", background: "#d0ac42" } }
+        color: { bar: "#F2C849", title: { text: "#fff", background: "#d0ac42" } }
     },
     {
         type: "Api REST",
         level: 70,
-        color: { bar: "#34495E", title: { text: "#111", background: "#d0ac42" } }
+        color: { bar: "#34495E", title: { text: "#fff", background: "#1F3555" } }
     },
     {
-        type: "Metodología SCRUM",
+        type: "SCRUM",
         level: 80,
-        color: { bar: "#D0D3D4", title: { text: "#111", background: "#d0ac42" } }
+        color: { bar: "#fff", title: { text: "#000", background: "#D8D8D8" } }
     },
 
 
