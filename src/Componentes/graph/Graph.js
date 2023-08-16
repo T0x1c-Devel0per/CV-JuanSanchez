@@ -15,7 +15,7 @@ const SKILLS6 = [
     },
     {
         type: "Python",
-        level: 50,
+        level: 60,
         color: { bar: "#f55858", title: { text: "#fff", background: "#D92929" } }
     },
     {
@@ -29,16 +29,33 @@ const SKILLS6 = [
         color: { bar: "#D9C5B4", title: { text: "#fff", background: "#d2b69e" } }
     },
     {
+        type: "FireBase",
+        level: 80,
+        color: { bar: "#A569BD", title: { text: "#111", background: "#d0ac42" } }
+    },
+    {
         type: "SQL",
-        level: 75,
+        level: 90,
         color: { bar: "#27ae60", title: { text: "#fff", background: "#1e8047" } }
     },
     {
         type: "MongoDB",
-        level: 50,
+        level: 80,
         color: { bar: "#F2C849", title: { text: "#111", background: "#d0ac42" } }
     },
-   
+    {
+        type: "Api REST",
+        level: 70,
+        color: { bar: "#34495E", title: { text: "#111", background: "#d0ac42" } }
+    },
+    {
+        type: "Metodología SCRUM",
+        level: 80,
+        color: { bar: "#D0D3D4", title: { text: "#111", background: "#d0ac42" } }
+    },
+
+
+
 ];
 
 const Graph = () => (
