@@ -9,11 +9,6 @@ const SKILLS6 = [
         color: { bar: "#F24E29", title: { text: "#fff", background: "#c22400" } }
     },
     {
-        type: "SQL",
-        level: 75,
-        color: { bar: "#27ae60", title: { text: "#fff", background: "#1e8047" } }
-    },
-    {
         type: "Javascript",
         level: 80,
         color: { bar: "#124e8c", title: { text: "#fff", background: "#0d3760" } }
@@ -32,6 +27,11 @@ const SKILLS6 = [
         type: "Java",
         level: 50,
         color: { bar: "#D9C5B4", title: { text: "#fff", background: "#d2b69e" } }
+    },
+    {
+        type: "SQL",
+        level: 75,
+        color: { bar: "#27ae60", title: { text: "#fff", background: "#1e8047" } }
     },
     {
         type: "MongoDB",
