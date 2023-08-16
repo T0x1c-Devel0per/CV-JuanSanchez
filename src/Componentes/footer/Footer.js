@@ -8,7 +8,6 @@ const Footer = () => {
             </div>
             <div className='footer-contact'>
                 <h3>Contactame:  +57 314 445 7149</h3>
-                <p>Y pongámonos manos a la obra</p>
             </div>
             <div className='footer-sns'>
                 <div className='desing-by'>
