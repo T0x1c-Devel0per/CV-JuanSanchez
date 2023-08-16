@@ -25,7 +25,7 @@ const SKILLS6 = [
     },
     {
         type: "React",
-        level: 50,
+        level: 75,
         color: { bar: "#0F758C", title: { text: "#fff", background: "#0c4451" } }
     },
     {
