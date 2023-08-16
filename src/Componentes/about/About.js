@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Photo from '../../media/Photo3.jpg'
+import Photo from '../../media/Photo.jpg'
 
 
 
