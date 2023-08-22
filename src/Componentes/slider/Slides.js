@@ -4,7 +4,7 @@ import "./Slider.css";
 const slidesInfo = [
     {
         src: 'https://cdn.pixabay.com/photo/2016/07/03/18/04/tech-1495181_1280.jpg',
-        link: "https://slack-clone-d74d5.web.app",   
+        link: "https://slack-clone-d74d5.web.app/",   
         desc: "Slack Clone"
     },
     {
