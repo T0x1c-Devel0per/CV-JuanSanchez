@@ -17,10 +17,10 @@ const Footer = () => {
                     <a href='https://wa.me/573144457149' target='_blank' rel="noreferrer">
                         <i className='fab fa-whatsapp whatsapp'></i>
                     </a>
-                    <a href='https://www.instagram.com/juanpa_sanchez8/' target='_blank' rel="noreferrer">
+                    <a href='https://www.instagram.com/' target='_blank' rel="noreferrer">
                         <i className='fab fa-instagram instagram'></i>
                     </a>
-                    <a href='https://www.facebook.com/Hipst.7/' target='_blank' rel="noreferrer">
+                    <a href='https://www.facebook.com/' target='_blank' rel="noreferrer">
                         <i className='fab fa-facebook facebook'></i>
                     </a>
                 </div>
