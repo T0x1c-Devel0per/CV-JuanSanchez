@@ -8,11 +8,11 @@ const Slider = () => {
   return (
     <div className="carousel-container">
         <div className="carousel-tittle">
-            <h2>Mis proyectos</h2>
+            <h2>My Projects</h2>
         </div>
     
         <Carousel
-            slidesPerPage ={3}
+            slidesPerPage ={2}
             infinite
             animationSpeed={200}
             centered

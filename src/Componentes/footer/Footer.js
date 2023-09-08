@@ -7,7 +7,7 @@ const Footer = () => {
                 <h1>Juan Pablo Sanchez Rodriguez</h1>
             </div>
             <div className='footer-contact'>
-                <h3>Contactame:  +57 314 445 7149</h3>
+                <h3>Contact me:  +57 314-445-7149</h3>
             </div>
             <div className='footer-sns'>
                 <div className='desing-by'>

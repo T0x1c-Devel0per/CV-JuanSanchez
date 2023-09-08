@@ -8,17 +8,20 @@ const About = () => {
   return (
     <div className='about-container'>
       <div className='about-img'>
-        <img className='photo' src={Photo} alt ="ProfileImagen"/>
+        <img className='photo' src={Photo} alt="ProfileImagen" />
       </div>
-        <div className='about-desc'>
-            <h3>Sobre mi</h3>
-            <p>
-              Programador Junior con sólidos conocimientos en software y hardware, respaldados por una formación integral.
-              Poseo competencia en diversos lenguajes de programación como Python, Java, JavaScript, y manejo de tecnologías web como CSS y SQL.
-              Además, cuento con experiencia en el uso de bases de datos PostgreSQL y en la construcción de aplicaciones utilizando NodeJS y frameworks como React, Flask y Django.
-              Mi enfoque se apoya en metodologías ágiles, especialmente en SCRUM, y tengo habilidad en la implementación de JSON Web Tokens, GIT y la creación de API Rest.
-            </p>
-        </div>
+      <div className='about-desc'>
+        <h3>About me</h3>
+        <p>
+          Junior Programmer with strong knowledge in both software and hardware,
+          supported by comprehensive training. I possess competence in various programming
+          languages such as Python, Java, JavaScript, and proficiency in web technologies 
+          like CSS and SQL. Furthermore, I have experience working with PostgreSQL databases
+          and building applications using NodeJS and frameworks like React, Flask, and Django.
+          My approach is rooted in agile methodologies, particularly SCRUM, and I have skills in 
+          implementing JSON Web Tokens, GIT, and creating RESTful APIs.
+        </p>
+      </div>
     </div>
   )
 }

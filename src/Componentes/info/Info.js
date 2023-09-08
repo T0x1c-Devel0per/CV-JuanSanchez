@@ -4,7 +4,7 @@ const Info = () => {
   return (
     <div className='info-container'>
         <div className='info'>
-        <h1>"Nuestra naturaleza esta en la acción. El reposo presagia la muerte"
+        <h1>"Our nature lies in action. Rest foretells death."
           <p>-Séneca</p>
         </h1>
         </div>

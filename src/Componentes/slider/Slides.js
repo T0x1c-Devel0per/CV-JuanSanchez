@@ -9,13 +9,8 @@ const slidesInfo = [
     },
     {
         src: 'https://cdn.pixabay.com/photo/2017/07/01/19/48/background-2462434_1280.jpg',
-        link: "https://www.example.com/project2",
-        desc: "Proyecto 2"
-    },
-    {
-        src: 'https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg',
-        link: "https://www.example.com/project3",
-        desc: "Proyecto 3"
+        link: "https://client-app007.netlify.app",
+        desc: "User Management System (CRUD)."
     },
 ]
 

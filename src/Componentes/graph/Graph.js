@@ -59,16 +59,11 @@ const SKILLS6 = [
 ];
 
 const Graph = () => (
-    <div>
-        <div id="elementAllBarAllTextAllBg">
-            <div>
-                <pre>
-                    <br />
-                </pre>
-            </div>
-            <SkillBar skills={SKILLS6} />
-        </div>
-        <br />
+    <div className ="Graphs">
+
+        <SkillBar skills={SKILLS6} />
+
+
     </div>
 );
 
